@@ -30,7 +30,6 @@ The project's scope generating random mazes and solving them automatically.
   - Creating a grid based maze with randomized prim's algorithm.
   - Solving the maze with the DFS algorithm.
   - **_Technologies used:_** Javascript, p5.js, html, css, bootstrap).
-
 <br><br>
 
 **Crypto Project**<br>
@@ -40,7 +39,6 @@ The project's scope is displaying the most used crypto currency values and showi
   - Building the mobile application side of the project.
   - Designing and implementing landing screen, currency list, detail page, handling chart api, crypto currency data api.
   - **_Technologies used:_** Dart, Flutter, Node.js).
-
 <br><br>
 
 ## 💬 Languages
