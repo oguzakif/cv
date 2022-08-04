@@ -2,7 +2,7 @@
 
 _Computer Engineering Student based in Izmir, Turkey_ <br>
 
-[Email](mailto:oguztufek@gmail.com) / [LinkedIn](https://www.linkedin.com/in/oguzakiftufekcioglu/) / [GitHub](https://github.com/oguzakif/))
+([Email](mailto:oguztufek@gmail.com) / [LinkedIn](https://www.linkedin.com/in/oguzakiftufekcioglu/) / [GitHub](https://github.com/oguzakif/))
 
 ## 💻 Professional Experience
 
