@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Oguz Akif Tufekcioglu
 
-You can use the [editor on GitHub](https://github.com/oguzakif/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Computer Engineering Student based in Izmir, Turkey_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:oguztufek@gmail.com) / [LinkedIn](https://www.linkedin.com/in/oguzakiftufekcioglu/) / [GitHub](https://github.com/oguzakif/))
 
-### Markdown
+## 💻 Professional Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Data Engineer Intern** @ [ALGOMEDI](https://www.algomedi.com/) _(July 2022 - Present)_ <br>
+Smart Medical Appointment project that helps to patients with their branch choice.
+  - Building a ontology based database that provides semtomps with their related branch.
+  - Building models with CNN, RNN algorithms.
+  - **_Technologies used:_** Tensorflow, Keras, Hugging Face, Pandas, Numpy).
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Software Engineer Intern** @ [Pepteam](https://pepteam.com.tr/) _(July 2021 - Sept 2021)_ <br>
+Mobile application that facilitates team management in companies. 
+  - Building UI widgets to digitize tasks in an organization.
+  - Designed and implemented firebase database for storing organizations, employess, customer.
+  - Query optimization
+  - **_Technologies used:_** Dart, Flutter, Firebase, Typescript).
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+## 📌 Projects
 
-- Bulleted
-- List
+**Pathfinding and Maze Generation**<br>
+[Link](https://github.com/oguzakif/pathfinding-mazegeneration)
+The project's scope generating random mazes and solving them automatically.
 
-1. Numbered
-2. List
+  - Creating a grid based maze with randomized prim's algorithm.
+  - Solving the maze with the DFS algorithm.
+  - **_Technologies used:_** Javascript, p5.js, html, css, bootstrap).
 
-**Bold** and _Italic_ and `Code` text
+<br><br>
 
-[Link](url) and ![Image](src)
-```
+**Crypto Project**<br>
+[Link](https://github.com/oguzakif/krypto_app)
+The project's scope is displaying the most used crypto currency values and showing the charts according to time series based data.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  - Building the mobile application side of the project.
+  - Designing and implementing landing screen, currency list, detail page, handling chart api, crypto currency data api.
+  - **_Technologies used:_** Dart, Flutter, Node.js).
 
-### Jekyll Themes
+<br><br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oguzakif/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 💬 Languages
 
-### Support or Contact
+**Turkish**: Native <br>
+**English**: B2 <br>
+**German**: A2
+<br><br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 👩🏼‍🎓 Education
+
+**Bachelor of Engineering** Computer Engineering<br>
+[Dokuz Eylül University](https://global.deu.edu.tr/) - Izmir, Turkey _(2018 - 2023)_
+
+**Erasmus+ International Exchange** Computer Science<br>
+[Konstanz University](https://www.uni-konstanz.de/en/) - Konstanz, Germany _(October 2021 - March 2022)_
