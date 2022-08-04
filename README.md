@@ -10,7 +10,7 @@ _Computer Engineering Student based in Izmir, Turkey_ <br>
 Smart Medical Appointment project that helps to patients with their branch choice.
   - Building a ontology based database that provides semtomps with their related branch.
   - Building models with CNN, RNN algorithms.
-  - **_Technologies used:_** Tensorflow, Keras, Hugging Face, Pandas, Numpy).
+  - **_Technologies used:_** Python,Tensorflow, Keras, Hugging Face, Pandas, Numpy).
 <br><br>
 
 **Software Engineer Intern** @ [Pepteam](https://pepteam.com.tr/) _(July 2021 - Sept 2021)_ <br>
