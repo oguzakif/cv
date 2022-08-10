@@ -41,6 +41,17 @@ The project's scope is displaying the most used crypto currency values and showi
   - **_Technologies used:_** Dart, Flutter, Node.js).
 <br><br>
 
+## 🎨 Skills
+
+**Python**: Beginner (Tensorflow, Pandas, Using for developing models)<br>
+**Dart/Flutter**: Mid (1 Personal Project, 1 Professional Project (Peptask)) <br>
+**Java**: Mid <br>
+**Javascript**: Beginner (Node.js, React.js) <br>
+**SQL**: Beginner (PostgreSQL) <br>
+**NoSQL**: Beginner (Firebase) <br>
+**Git**: Mid
+<br><br>
+
 ## 💬 Languages
 
 **Turkish**: Native <br>
