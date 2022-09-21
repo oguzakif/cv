@@ -23,13 +23,22 @@ Mobile application that facilitates team management in companies.
 
 ## 📌 Projects
 
+**NCBI Disease Classifier**<br>
+[Link](https://github.com/oguzakif/ncbi-disease-classifier)
+Disease word classifier model comparison with different types of neural networks (CNN, GRU, LSTM) using ncbi_disease dataset. This data was retrieved from Hugging face dataset api. The project aims to apply named entity recognition on disease names.
+
+  - Preprocessing the ncbi_disease dataset (stopword and punctuation cleaning, vectorization).
+  - Compiling the data on different types of neural networks.
+  - **_Technologies used:_** Tensorflow, Pandas, Numpy, Hugging Face Dataset API.
+<br><br>
+
 **Pathfinding and Maze Generation**<br>
 [Link](https://github.com/oguzakif/pathfinding-mazegeneration)
 The project's scope generating random mazes and solving them automatically.
 
   - Creating a grid based maze with randomized prim's algorithm.
   - Solving the maze with the DFS algorithm.
-  - **_Technologies used:_** Javascript, p5.js, html, css, bootstrap).
+  - **_Technologies used:_** Javascript, p5.js, html, css, bootstrap.
 <br><br>
 
 **Crypto Project**<br>
@@ -38,18 +47,18 @@ The project's scope is displaying the most used crypto currency values and showi
 
   - Building the mobile application side of the project.
   - Designing and implementing landing screen, currency list, detail page, handling chart api, crypto currency data api.
-  - **_Technologies used:_** Dart, Flutter, Node.js).
+  - **_Technologies used:_** Dart, Flutter, Node.js.
 <br><br>
 
 ## 🎨 Skills
 
-**Python**: Beginner (Tensorflow, Pandas, Using for developing models)<br>
-**Dart/Flutter**: Mid (1 Personal Project, 1 Professional Project (Peptask)) <br>
-**Java**: Mid <br>
-**Javascript**: Beginner (Node.js, React.js) <br>
-**SQL**: Beginner (PostgreSQL) <br>
-**NoSQL**: Beginner (Firebase) <br>
-**Git**: Mid
+**Python**: Tensorflow, Pandas, Numpy<br>
+**Dart/Flutter** <br>
+**Java** <br>
+**Javascript**: Node.js, React.js <br>
+**SQL**: PostgreSQL <br>
+**NoSQL**: Firebase <br>
+**Git**
 <br><br>
 
 ## 💬 Languages
